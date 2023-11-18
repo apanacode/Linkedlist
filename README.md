@@ -1,1 +1,2 @@
-# Linkedlist
+# Linkedlist #collections 
+Linkedlist is a class which is used to add and retrieve the elements from the list and we can also update the elements ...
